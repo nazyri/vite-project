@@ -1,8 +1,11 @@
+
+
 const Cerrar = ({el}) => {
 
     return(
         <>
-        <button onClick={el}>Cerrar sesion</button>
+         <button onClick={el}>Cerrar sesion</button> 
+
         </>
     )
 }

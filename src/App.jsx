@@ -5,7 +5,7 @@ import './App.css'
 import Navbar from './Navbar'
 import Inicio from './Inicio'
 import Cerrar from './Cerrar'
-import Mensaje from './mensaje'
+import Mensaje from './Mensaje'
 
 
 function App() {
