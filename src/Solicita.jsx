@@ -1,3 +1,5 @@
+import { useRef } from "react"
+
 const Solicita = ({info}) => {
     const usuario = useRef ('')
     const clave = useRef ('')
